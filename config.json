@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "searchvonnect",
+        "uuid": 11275812,
+        "checksum": "9gru2o"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "production"
+    }
+}
